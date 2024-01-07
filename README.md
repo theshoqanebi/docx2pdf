@@ -3,7 +3,7 @@ This script converts a Microsoft Word (.docx) document to a Portable Document Fo
 
 ## Usage
 ```
-python main.py input.docx output.pdf
+$ python main.py input.docx output.pdf
 ```
 
 # Standalone
